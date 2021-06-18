@@ -4,3 +4,4 @@ mkdocs-material
 mkdocstrings==0.13.6
 mkdocs-jupyter
 jupyter
+livereload
