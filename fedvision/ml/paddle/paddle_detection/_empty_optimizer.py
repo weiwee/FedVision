@@ -1,3 +1,0 @@
-class EmptyOptimizer(object):
-    def minimize(self, loss):
-        ...

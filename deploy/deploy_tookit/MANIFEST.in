@@ -1,3 +1,0 @@
-include fedvision_deploy_toolkit/data/fedvision.tar.gz
-include fedvision_deploy_toolkit/template/*
-
